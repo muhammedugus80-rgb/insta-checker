@@ -1,9 +1,9 @@
 import requests
 
-USERNAMES = ["kullanici1"]
+USERNAMES = ["hatjasangtar"]
 
-BOT_TOKEN = "TOKEN"
-CHAT_ID = "CHAT_ID"
+BOT_TOKEN = "8904316114:AAESRD9p-eJc1xL6D0oO-UED72ceMqKQL58"
+CHAT_ID = "8800074041"
 
 def send(msg):
     requests.post(
