@@ -1,6 +1,6 @@
 import requests
 
-USERNAMES = ["hatjasangtar"]
+USERNAMES = ["sleytwnson"]
 
 BOT_TOKEN = "8904316114:AAESRD9p-eJc1xL6D0oO-UED72ceMqKQL58"
 CHAT_ID = "8800074041"
